@@ -1,5 +1,4 @@
-```markdown
-# Taller 1 - Sistema de Gestión Pokémon
+## Taller 1 - Sistema de Gestión Pokémon
 
 Proyecto desarrollado en Java que modela un sistema básico de gestión de Pokémon, entrenadores, ataques, estadísticas, evoluciones y validaciones personalizadas mediante excepciones.
 
@@ -124,7 +123,7 @@ Este proyecto fue desarrollado como parte de un taller académico, con el propó
 
 ## 👨‍💻 Autor
 
-Proyecto desarrollado por estudiante de DUOC UC.
+Proyecto desarrollado por Camilo Hidalgo, estudiante de DUOC UC.
 
 ## 📄 Licencia
 
